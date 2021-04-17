@@ -1,0 +1,16 @@
+{
+    "menu": [
+        {"nombre": "about"},
+        {"nombre": "blog"},
+        {"nombre": "contact"},
+        {"nombre": "footer"},
+        {"nombre": "form"},
+        {"nombre": "grid"},
+        {"nombre": "header"},
+        {"nombre": "login"},
+        {"nombre": "register"},
+        {"nombre": "section"},
+        {"nombre": "table"},
+        {"nombre": "slider"}
+    ]
+}
