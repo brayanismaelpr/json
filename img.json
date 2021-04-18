@@ -5,28 +5,32 @@
             "name" : "Visages du Rhône",
             "from" : "France",
             "date" : "April 17, 2021",
-            "by" : "EXTRA L'AGENCE"
+            "by" : "EXTRA L'AGENCE",
+            "imgprofile" : "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/258057/5f216e160f458186916932.jpg"
         },
         {
             "url" : "https://assets.awwwards.com/awards/media/cache/optimize/submissions/2021/03/6064991d4b54e997944023.jpg",
             "name" : "SSSolitaire",
             "from" : "Italy",
             "date" : "April 16, 2021",
-            "by" : "SIX SOCKS STUDIO"
+            "by" : "SIX SOCKS STUDIO",
+            "imgprofile" : "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/750631/5cd5a9df37f9d973763568.png"
         },
         {
             "url" : "https://assets.awwwards.com/awards/media/cache/optimize/submissions/2021/04/6076d83a58146747099765.jpg",
             "name" : "Juicebrothers",
             "from" : "Netherlands",
             "date" : "April 14, 2021",
-            "by" : "LAMA LAMA"
+            "by" : "LAMA LAMA",
+            "imgprofile" : "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/357997/5bc6d164aa3bd.png"
         },
         {
             "url" : "https://assets.awwwards.com/awards/media/cache/optimize/submissions/2021/04/60784528007f7657476830.png",
             "name" : "Prometheus Fuels",
             "from" : "United States",
             "date" : "April 16, 2021",
-            "by" : "ACTIVE THEORY"
+            "by" : "ACTIVE THEORY",
+            "imgprofile" : "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/237203/60231c64ede15878488619.jpg"
         }
     ]
 }
